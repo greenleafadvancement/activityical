@@ -1,0 +1,12 @@
+{
+  "name": "civicrm/activityical",
+  "description": "CiviCRM Activity iCalendar Feed",
+  "license": "AGPL-3.0-only",
+  "type": "civicrm-ext",
+  "authors": [
+      {
+          "name": "Alan Shaw",
+          "email": "allen@joineryhq.com"
+      }
+  ]
+}
